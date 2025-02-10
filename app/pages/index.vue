@@ -1,7 +1,11 @@
 <template>
   <div>
-    <Header />
-    <Hero />
-    <Footer />
+    <HeaderSection />
+    <HeroSection />
+
+    <FeatureSection />
+    <!-- <Disclamer /> -->
+    <ClientSection />
+    <FooterSection />
   </div>
 </template>
